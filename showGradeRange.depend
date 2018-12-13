@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539322501 source:c:\users\daria\onedrive\desktop\codeblock works\showgradesaga\main.c
+	<stdio.h>
+	<stdlib.h>
+	"showGrade.h"
+
+1539322501 c:\users\daria\onedrive\desktop\codeblock works\showgradesaga\showgrade.h
+
